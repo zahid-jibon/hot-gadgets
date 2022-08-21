@@ -39,3 +39,31 @@ h6{
     cursor: pointer;
     background-color: rgb(228, 228, 228);
 }
+
+/* Category */
+.cata{
+    width: 100%;
+}
+
+.gory{
+    text-align: center;
+}
+
+.category1{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    margin: 1px;
+    padding: 15px;
+}
+
+.category2{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 15px;
+}
+
+.category3{
+    height: 350px;
+    width: 100%;
+}
